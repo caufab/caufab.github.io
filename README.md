@@ -1,1 +1,1 @@
-Used for js framework training [link](caufab.github.io).
+Used for js framework training [link](https://caufab.github.io).
