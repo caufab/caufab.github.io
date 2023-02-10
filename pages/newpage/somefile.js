@@ -14,7 +14,7 @@ export default function FirstPost() {
       </div>
       <h2>
         <Link href="/">← Back to home</Link>
-      </h2>
+      </h2> 
     </Layout>
   );
 }
